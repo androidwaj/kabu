@@ -1,0 +1,80 @@
+[ 2015-10-23T08:09:27+08:00 ] 1.15.100.136 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0016s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-10-23T08:09:27+08:00 ] 1.15.100.136 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0015s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-10-23T20:09:08+08:00 ] 123.121.38.239 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0014s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-10-23T20:09:08+08:00 ] 123.121.38.239 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0013s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+

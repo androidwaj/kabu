@@ -1,0 +1,1438 @@
+[ 2015-09-17T00:15:47+08:00 ] 117.73.42.41 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0017s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:15:03+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0019s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:15:12+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0018s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:15:37+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0016s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:44:00+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0018s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:45:19+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0020s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:45:47+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0015s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:46:09+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0022s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:46:34+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0019s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:46:45+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0023s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:48:14+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0020s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:48:38+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0021s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T13:53:41+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0015s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T14:09:33+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0029s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T15:12:52+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0028s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T15:13:35+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0028s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T15:15:46+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0016s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T15:15:54+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0083s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T15:16:19+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0023s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 56 行.
+
+[ 2015-09-17T15:23:44+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0047s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T15:30:42+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0021s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T15:37:05+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0016s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T15:56:21+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0067s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:03:52+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0027s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:04:47+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0137s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:06:00+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0088s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:06:44+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0195s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:07:18+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.2079s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:07:39+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0113s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:08:40+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0028s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:09:06+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.2073s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:10:15+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0028s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:12:40+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0046s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:43:50+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.057539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.057675s ]
+ERR: SQLSTATE[HY000] [1040] Too many connections
+
+[ 2015-09-17T16:44:05+08:00 ] 111.199.87.141 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+ERR: SQLSTATE[HY000] [1040] Too many connections
+
+[ 2015-09-17T16:46:42+08:00 ] 111.199.87.141 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0014s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:47:10+08:00 ] 111.199.87.141 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0014s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:47:32+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0029s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T16:48:47+08:00 ] 111.199.87.141 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006056s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0040s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T17:02:33+08:00 ] 111.199.87.141 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0034s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T17:14:02+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0022s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T17:18:03+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0018s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T17:20:14+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0017s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T17:23:24+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010620s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0025s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T18:17:22+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0048s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T18:25:25+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0113s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T18:30:12+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008511s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0072s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T18:31:18+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0027s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T18:34:58+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0017s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T18:35:59+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0028s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T18:37:00+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0028s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T18:40:32+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0019s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T18:58:30+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0038s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T20:51:29+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0020s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-09-17T20:52:13+08:00 ] 111.199.79.32 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_257` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0019s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: data /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 79 行.
+NOTIC: [8] Undefined variable: img /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /var/www/html/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+

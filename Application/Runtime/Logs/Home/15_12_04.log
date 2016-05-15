@@ -1,0 +1,200 @@
+[ 2015-12-04T09:46:36+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0014s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-12-04T09:47:15+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0020s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-12-04T09:49:49+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0013s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-12-04T09:52:34+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0017s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-12-04T09:57:04+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0013s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-12-04T09:57:38+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0013s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-12-04T10:00:19+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0012s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-12-04T10:22:24+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0015s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-12-04T10:25:22+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0013s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
+[ 2015-12-04T14:59:50+08:00 ] 111.199.85.11 /news/Home/Index/newsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SHOW COLUMNS FROM `Data_Content_257` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `Data_Content_265` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0013s ]
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+NOTIC: [2] strlen() expects exactly 1 parameter, 2 given /mnt/php-wzf/news/Application/Home/Controller/IndexController.class.php 第 64 行.
+
