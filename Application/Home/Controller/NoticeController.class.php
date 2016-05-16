@@ -8,5 +8,11 @@ class NoticeController extends BaseController {
     	$list = M('notice')->limit($page,$this->limit)->field('notice_id,notice_title,user_id,notice_abstract,FROM_UNIXTIME(add_time,"%Y-%m-%d %H:%i:%s") add_time')->select();
     	output_data($list);
     }
+    public function info(){
+    	$notice_id = $_REQUEST['notice_id'];
+    	$where['notice_id'] = $notice_id;
+    	$info = M('notice')->where($where)->field('notice_id,notice_title,user_id,FROM_UNIXTIME(add_time,"%Y-%m-%d %H:%i:%s") add_time,notice_body,focus,zan')->find();
+    	output_data($info);
+    }
     
 }
