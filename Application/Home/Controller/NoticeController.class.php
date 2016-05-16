@@ -1,6 +1,5 @@
 <?php
 namespace Home\Controller;
-use Think\Controller;
 class NoticeController extends BaseController {
 	
     public function index(){
